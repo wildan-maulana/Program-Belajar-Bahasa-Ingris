@@ -1,0 +1,81 @@
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\bin\x86\Debug\FlashGame.exe
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\bin\x86\Debug\FlashGame.pdb
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\bin\x86\Debug\FlashGame.xml
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Awal.resources
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Resources.resources
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\FlashGame.newPlayer.resources
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Profil.resources
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\FlashGame.vbproj.GenerateResource.Cache
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\FlashGame.exe
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\FlashGame.xml
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\FlashGame.pdb
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Level.resources
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\obj\x86\Debug\FlashGame.exe
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\obj\x86\Debug\FlashGame.xml
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\obj\x86\Debug\FlashGame.pdb
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\bin\x86\Debug\FlashGame.exe
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\bin\x86\Debug\FlashGame.pdb
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\bin\x86\Debug\FlashGame.xml
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Awal.resources
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Level.resources
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Resources.resources
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\obj\x86\Debug\FlashGame.newPlayer.resources
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Play.resources
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Profil.resources
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\obj\x86\Debug\FlashGame.vbproj.GenerateResource.Cache
+E:\matakuliah PTI\smester5\RPL\backup\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Game1.resources
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Game1.resources
+J:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.exe
+J:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.xml
+J:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.pdb
+E:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.exe
+E:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.xml
+E:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.pdb
+G:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.exe
+G:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.xml
+G:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.pdb
+F:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.exe
+F:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.xml
+F:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.pdb
+F:\kac\FlashGame\FlashGame\bin\x86\Debug\FlashGame.exe
+F:\kac\FlashGame\FlashGame\bin\x86\Debug\FlashGame.pdb
+F:\kac\FlashGame\FlashGame\bin\x86\Debug\FlashGame.xml
+F:\kac\FlashGame\FlashGame\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Awal.resources
+F:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Game1.resources
+F:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Level.resources
+F:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Resources.resources
+F:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.newPlayer.resources
+F:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Play.resources
+F:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Profil.resources
+F:\kac\FlashGame\FlashGame\obj\x86\Debug\FlashGame.vbproj.GenerateResource.Cache
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\obj\x86\Debug\FlashGame.exe
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\obj\x86\Debug\FlashGame.xml
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\obj\x86\Debug\FlashGame.pdb
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\bin\x86\Debug\FlashGame.exe
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\bin\x86\Debug\FlashGame.pdb
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\bin\x86\Debug\FlashGame.xml
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Awal.resources
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Game1.resources
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Level.resources
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Resources.resources
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\obj\x86\Debug\FlashGame.newPlayer.resources
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Play.resources
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Profil.resources
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\obj\x86\Debug\FlashGame.vbproj.GenerateResource.Cache
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Bantuan.resources
+E:\matakuliah PTI\smester5\RPL\New folder\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Form1.resources
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\bin\x86\Debug\ICSharpCode.SharpZipLib.dll
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Bantuan.resources
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\FlashGame.Form1.resources
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\bin\Release\FlashGame.exe
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\bin\Release\FlashGame.pdb
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\bin\Release\FlashGame.xml
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\bin\Release\ICSharpCode.SharpZipLib.dll
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\bin\Release\FlashGame.exe.manifest
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\bin\Release\FlashGame.application
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\FlashGame.exe.manifest
+E:\matakuliah PTI\smester5\RPL\FlashGame\FlashGame\obj\x86\Debug\FlashGame.application
